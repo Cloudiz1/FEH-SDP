@@ -1,0 +1,3 @@
+[submodule "simulator_libraries"]
+	path = simulator_libraries
+	url = https://code.osu.edu/robbeloth.1/simulator_libraries.git
